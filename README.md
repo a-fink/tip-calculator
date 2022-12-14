@@ -49,8 +49,8 @@
     - The page will reload when you make changes
     - You may also see any lint errors in the console
 5. For Deployment
-    - If using GitHub pages, replace url in "homepage" section of `package.json`
-    - If deploying elsewhere the "homepage" section can be deleted from `package.json`
+    - If using GitHub pages, replace url in "homepage" section of package.json with your own, then run `npm run deploy` to build/deploy the site
+    - If deploying elsewhere the "homepage" section can be deleted from package.json, and the gh-pages dependency can be removed
 
 ## Acknowledgements
 
