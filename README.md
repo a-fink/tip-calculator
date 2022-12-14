@@ -4,7 +4,7 @@
 
 ## Live Site
 
-to be added
+[Tip Split Calculator](https://a-fink.github.io/tip-calculator)
 
 ## Team
 
@@ -48,6 +48,9 @@ to be added
     - Open http://localhost:3000 to view it in your browser
     - The page will reload when you make changes
     - You may also see any lint errors in the console
+5. For Deployment
+    - If using GitHub pages, replace url in "homepage" section of `package.json`
+    - If deploying elsewhere the "homepage" section can be deleted from `package.json`
 
 ## Acknowledgements
 
