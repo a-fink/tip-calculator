@@ -1,6 +1,5 @@
 # Tip Split Calculator
-
-![screenshot](./public/screenshot.png "project screenshot")
+https://user-images.githubusercontent.com/107282070/223629269-6fadb7b6-5612-4357-9644-86d771b65d0d.mp4
 
 ## Live Site
 
